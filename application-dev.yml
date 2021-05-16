@@ -1,5 +1,7 @@
 mysql:
-    user:踏浪低至
+    user: 踏浪低至
 
 person:
-    name:wx
+    name: wx
+slogan:
+    text: 中国梦
